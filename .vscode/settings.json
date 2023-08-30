@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "onWindowChange",
+    "code-auto-commit.autoPush": true,
+    "gitlens.advanced": {
+        "autoCommit": true,
+        "autoCommitMessage": "My custom commit message",
+        "autoPush": true
+        }
+}
